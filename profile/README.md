@@ -100,3 +100,29 @@ Para mantener la trazabilidad y calidad en los repositorios, cada proyecto imple
 | **C++** | [C++ Reference Guide](https://en.cppreference.com/w/) |
 | **Arduino** | [Arduino Language Reference](https://www.arduino.cc/reference/en/) |
 | **Docker** | [Docker Guides & Manuals](https://docs.docker.com/get-started/) |
+
+---
+
+## 📺 Cursos Recomendados en YouTube
+
+Selección de cursos recientes, de alta calidad y con gran cantidad de visitas:
+
+### 🐹 Go (Golang)
+- [Golang Tutorial for Beginners \| Full Go Course](https://www.youtube.com/watch?v=XYLqN1E4L9c) — *TechWorld with Nana* (Sintaxis, concurrencia con goroutines y desarrollo práctico).
+- [Learn Go Programming - Golang Tutorial for Beginners](https://www.youtube.com/watch?v=YS4e4q9oBaU) — *freeCodeCamp* (Curso intensivo y completo de fundamentos a avanzado).
+
+### 🦀 Rust
+- [Learn Rust Programming - Complete Course](https://www.youtube.com/watch?v=BpPEoZW59sc) — *freeCodeCamp* (Gestión de memoria, *ownership*, *borrowing* y desarrollo de sistemas).
+- [Rust Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=HDXpWqSTwFm) — *Harkirat Singh* (Explicaciones modernas y proyectos prácticos).
+
+### 🟢 Node.js
+- [Curso de Node.js desde cero (Español)](https://www.youtube.com/watch?v=yB4n_K7dZV8) — *midudev* (Arquitectura asíncrona, módulos, creación de APIs y Express).
+- [Node.js and Express.js - Full Course](https://www.youtube.com/watch?v=Oe421EPjeBE) — *freeCodeCamp / John Smilga* (Construcción exhaustiva de servidores y proyectos del mundo real).
+
+### ⚡ C++ & Arduino
+- [C++ Full Course for free](https://www.youtube.com/watch?v=vLnPwxZdW4Y) — *Bro Code* (Punteros, programación orientada a objetos y bases sólidas de bajo nivel).
+- [Arduino Course for Beginners - Learn Arduino](https://www.youtube.com/watch?v=zJ-LqeX_fLU) — *freeCodeCamp* (Electrónica, sensores, pines I/O y programación de microcontroladores).
+
+### 🐳 Docker
+- [DOCKER De NOVATO a PRO! (Curso Completo en Español)](https://www.youtube.com/watch?v=17U5v8D-FpA) — *Pelado Nerd* (Contenedores, imágenes, volúmenes, redes y Docker Compose).
+- [Docker Full Course: From Zero to Real-World Projects](https://www.youtube.com/watch?v=680wO9tZg78) — *DolfinED* (Laboratorios prácticos y mejores prácticas para entornos de producción).
