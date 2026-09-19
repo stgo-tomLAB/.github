@@ -108,12 +108,12 @@ Para mantener la trazabilidad y calidad en los repositorios, cada proyecto imple
 Selección de cursos recientes, de alta calidad y con gran cantidad de visitas:
 
 ### 🐹 Go (Golang)
-- [Golang Tutorial for Beginners \| Full Go Course](https://www.youtube.com/watch?v=XYLqN1E4L9c) — *TechWorld with Nana* (Sintaxis, concurrencia con goroutines y desarrollo práctico).
+- [Golang Tutorial for Beginners \| Full Go Course](https://www.youtube.com/watch?v=yyUHQIec83I) — *TechWorld with Nana* (Sintaxis, concurrencia con goroutines y desarrollo práctico).
 - [Learn Go Programming - Golang Tutorial for Beginners](https://www.youtube.com/watch?v=YS4e4q9oBaU) — *freeCodeCamp* (Curso intensivo y completo de fundamentos a avanzado).
 
 ### 🦀 Rust
-- [Learn Rust Programming - Complete Course](https://www.youtube.com/watch?v=BpPEoZW59sc) — *freeCodeCamp* (Gestión de memoria, *ownership*, *borrowing* y desarrollo de sistemas).
-- [Rust Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=HDXpWqSTwFm) — *Harkirat Singh* (Explicaciones modernas y proyectos prácticos).
+- [Learn Rust Programming - Complete Course](https://www.youtube.com/watch?v=BpPEoZW5IiY) — *freeCodeCamp* (Gestión de memoria, *ownership*, *borrowing* y desarrollo de sistemas).
+- [Rust Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=qP7LzZqGh30) — *Harkirat Singh* (Explicaciones modernas y proyectos prácticos).
 
 ### 🟢 Node.js
 - [Curso de Node.js desde cero (Español)](https://www.youtube.com/watch?v=yB4n_K7dZV8) — *midudev* (Arquitectura asíncrona, módulos, creación de APIs y Express).
@@ -124,5 +124,5 @@ Selección de cursos recientes, de alta calidad y con gran cantidad de visitas:
 - [Arduino Course for Beginners - Learn Arduino](https://www.youtube.com/watch?v=zJ-LqeX_fLU) — *freeCodeCamp* (Electrónica, sensores, pines I/O y programación de microcontroladores).
 
 ### 🐳 Docker
-- [DOCKER De NOVATO a PRO! (Curso Completo en Español)](https://www.youtube.com/watch?v=17U5v8D-FpA) — *Pelado Nerd* (Contenedores, imágenes, volúmenes, redes y Docker Compose).
-- [Docker Full Course: From Zero to Real-World Projects](https://www.youtube.com/watch?v=680wO9tZg78) — *DolfinED* (Laboratorios prácticos y mejores prácticas para entornos de producción).
+- [DOCKER De NOVATO a PRO! (Curso Completo en Español)](https://www.youtube.com/watch?v=CV_Uf3Dq-EU) — *Pelado Nerd* (Contenedores, imágenes, volúmenes, redes y Docker Compose).
+- [Docker Full Course: From Zero to Real-World Projects](https://www.youtube.com/watch?v=0e2Z1Bd7fPo) — *DolfinED* (Laboratorios prácticos y mejores prácticas para entornos de producción).
