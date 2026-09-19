@@ -57,6 +57,39 @@ Contamos con un servidor central propio (*on-premise / bare-metal*) dedicado a s
 
 ---
 
+## 🌿 Convenciones de Código, Commits y Ramas
+
+- **Conventional Commits**: Todos los commits deben seguir el formato `tipo(alcance): descripción`:
+  - `feat`: Nueva característica o funcionalidad.
+  - `fix`: Corrección de errores.
+  - `docs`: Modificaciones en documentación.
+  - `ci`: Cambios en flujos de GitHub Actions o scripts de CI.
+  - `refactor`: Refactorización de código sin alteración funcional.
+  - `test`: Incorporación o mejora de pruebas.
+- **Estrategia de Ramas**:
+  - `main`: Rama de producción, estable y protegida.
+  - `feat/<nombre>`: Desarrollo de nuevas características.
+  - `fix/<nombre>`: Corrección de bugs.
+  - `chore/<nombre>`: Tareas de mantenimiento o configuración.
+
+---
+
+## 📋 Plantillas de PR e Issues
+
+Para mantener la trazabilidad y calidad en los repositorios, cada proyecto implementa plantillas estructuradas:
+- **Pull Requests**: Deben incluir descripción clara del cambio, issue vinculado (`Closes #123`), verificación de tests locales y comprobación con Docker.
+- **Issues**: Formatos estructurados para reporte de bugs (pasos de reproducción, logs esperados) y solicitudes de nuevas funcionalidades.
+
+---
+
+## 🔐 Seguridad y Gestión de Secretos
+
+- **Zero Leak Policy**: Prohibido estrictamente versionar archivos `.env`, credenciales, claves privadas o tokens en cualquier repositorio.
+- **Pre-commit Hooks**: Uso de herramientas de escaneo como `gitleaks` en local antes de confirmar cambios.
+- **Gestión Centralizada**: Los secretos compartidos entre el equipo y en entornos de CI se gestionarán exclusivamente mediante el *Secrets Manager* interno o GitHub Secrets.
+
+---
+
 ## 📚 Enlaces Rápidos a Documentación
 
 | Tecnología | Recurso Principal |
